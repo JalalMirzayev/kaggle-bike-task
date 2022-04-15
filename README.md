@@ -1,3 +1,3 @@
 # kaggle-bike-task
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/jalalmirzayev-kaggle-bike-task-gt609o0j/doc/tree/notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/jalalmirzayev-kaggle-bike-task-sey9n1q1/lab)
